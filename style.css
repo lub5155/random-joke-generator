@@ -1,0 +1,30 @@
+body{
+    font-family:monospace;
+    color: aliceblue;
+    background-color: rgb(162, 114, 207);
+    text-align: center;
+}
+button{
+    background-color: rgb(116, 0, 225);
+    color: aliceblue;
+    width: 70px;
+    border: none;
+    border-radius: 20px;
+    padding: 9px 15px;
+    font-weight: bold;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+    cursor: pointer;
+}
+#disp{
+    margin-top: 40px;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    width:80%;
+    height: 250px;
+    background-color: rgb(116, 0, 225);
+}
